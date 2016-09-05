@@ -1,0 +1,85 @@
+#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DFRobot_ColorWaveSensorAPDS9960	KEYWORD1	DFRobot_ColorWaveSensorAPDS9960
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+init	KEYWORD2
+getMode	KEYWORD2
+setMode	KEYWORD2
+enablePower	KEYWORD2
+enableLightSensor	KEYWORD2
+disableLightSensor	KEYWORD2
+enableProximitySensor	KEYWORD2
+disableProximitySensor	KEYWORD2
+enableGestureSensor	KEYWORD2
+disableGestureSensor	KEYWORD2
+getLEDDrive	KEYWORD2
+setLEDDrive	KEYWORD2
+getGestureLEDDrive	KEYWORD2
+setGestureLEDDrive	KEYWORD2
+getAmbientLightGain	KEYWORD2
+setAmbientLightGain	KEYWORD2
+getProximityGain	KEYWORD2
+setProximityGain	KEYWORD2
+getGestureGain	KEYWORD2
+setGestureGain	KEYWORD2
+getLightIntLowThreshold	KEYWORD2
+setLightIntLowThreshold	KEYWORD2
+getLightIntHighThreshold	KEYWORD2
+setLightIntHighThreshold	KEYWORD2
+getProximityIntLowThreshold	KEYWORD2
+setProximityIntLowThreshold	KEYWORD2
+getProximityIntHighThreshold	KEYWORD2
+setProximityIntHighThreshold	KEYWORD2
+getAmbientLightIntEnable	KEYWORD2
+setAmbientLightIntEnable	KEYWORD2
+getProximityIntEnable	KEYWORD2
+setProximityIntEnable	KEYWORD2
+getGestureIntEnable	KEYWORD2
+setGestureIntEnable	KEYWORD2
+clearAmbientLightInt	KEYWORD2
+clearProximityInt	KEYWORD2
+readAmbientLight	KEYWORD2
+readRedLight	KEYWORD2
+readGreenLight	KEYWORD2
+readBlueLight	KEYWORD2
+readProximity	KEYWORD2
+isGestureAvailable	KEYWORD2
+readGesture	KEYWORD2
+resetGestureParameters	KEYWORD2
+processGestureData	KEYWORD2
+decodeGesture	KEYWORD2
+getProxIntLowThresh	KEYWORD2
+setProxIntLowThresh	KEYWORD2
+getProxIntHighThresh	KEYWORD2
+setProxIntHighThresh	KEYWORD2
+getLEDBoost	KEYWORD2
+setLEDBoost	KEYWORD2
+getProxGainCompEnable	KEYWORD2
+setProxGainCompEnable	KEYWORD2
+getProxPhotoMask	KEYWORD2
+setProxPhotoMask	KEYWORD2
+getGestureEnterThresh	KEYWORD2
+setGestureEnterThresh	KEYWORD2
+getGestureExitThresh	KEYWORD2
+setGestureExitThresh	KEYWORD2
+getGestureWaitTime	KEYWORD2
+setGestureWaitTime	KEYWORD2
+getGestureMode	KEYWORD2
+setGestureMode	KEYWORD2
+wireWriteByte	KEYWORD2
+wireWriteDataByte	KEYWORD2
+wireWriteDataBlock	KEYWORD2
+wireReadDataByte	KEYWORD2
+wireReadDataBlock	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
